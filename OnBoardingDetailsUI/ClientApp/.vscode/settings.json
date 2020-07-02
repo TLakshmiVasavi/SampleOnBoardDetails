@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9286f9d2-f30b-438d-a13d-6f61dec9c2ca/resourceGroups/OnBoardingDetails/providers/Microsoft.Web/sites/OnBoardingDetailsUI",
+    "appService.deploySubpath": "build"
+}

@@ -1,0 +1,22 @@
+/* .App {
+  text-align: center;
+  font-family: calibri, Segoe UI;
+}
+
+.itemContainer::-webkit-scrollbar {
+  width: 10px;
+}
+
+Handle 
+.itemContainer::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+ Handle on hover 
+.itemContainer::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+::-ms-clear {
+  display: none;
+} */
